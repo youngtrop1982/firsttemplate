@@ -1,19 +1,28 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: "Living downtown Detroit"
+excerpt: "Downtown Detroit is not just a location; it's a living, breathing testament to the city's ability to rise from the ashes and redefine itself."
+coverImage: "/assets/blog/hello-world/detroit2.jpg"
+date: "2020-03-16T05:35:07.322Z"
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Wilhem Sandeau
+  picture: "/assets/blog/authors/will2.jpg"
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: "/assets/blog/hello-world/detroit2.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Moving to downtown Detroit offers a unique and exciting experience, with a combination of historical charm, cultural richness, and a burgeoning urban renaissance. Here are compelling reasons why people should consider making downtown Detroit their home:
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Revitalization and Redevelopment:
+Downtown Detroit has undergone a remarkable revitalization in recent years. Abandoned buildings have been repurposed into stylish lofts and modern apartments, contributing to the city's resurgence. The commitment to urban renewal has transformed the downtown area into a vibrant and dynamic community.
 
-## Lorem Ipsum
+Affordability:
+Compared to many other major cities in the United States, downtown Detroit offers relatively affordable housing options. The cost of living is lower than in some other metropolitan areas, making it an attractive prospect for individuals and families looking to enjoy urban living without breaking the bank.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Cultural Hub:
+Detroit is a cultural epicenter, and downtown is at the heart of it all. Residents have easy access to world-class museums, theaters, and art galleries. From the Detroit Institute of Arts to the Fox Theatre, there's no shortage of cultural experiences waiting to be explored.
+
+Sports and Entertainment Scene:
+For sports enthusiasts and entertainment seekers, downtown Detroit is a paradise. Home to iconic venues like Comerica Park and Ford Field, residents can cheer for their favorite teams and enjoy a diverse array of entertainment options, including concerts, festivals, and nightlife.
+
+Waterfront Living:
+The Detroit River provides a stunning backdrop to downtown living. The Riverwalk offers a scenic escape, with parks, green spaces, and breathtaking views of the river. Waterfront living provides a unique and peaceful urban experience.
